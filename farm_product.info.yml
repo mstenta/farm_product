@@ -1,5 +1,5 @@
 name: Product
-description: Provides a Product asset type, quantity type, and taxonomy.
+description: Provides a Product asset type and taxonomy.
 type: module
 package: farmOS Contrib
 core_version_requirement: ^9 || ^10

@@ -1,6 +1,6 @@
 {
   "name": "drupal/farm_product",
-  "description": "Provides a Product asset type, quantity type, and taxonomy.",
+  "description": "Provides a Product asset type and taxonomy.",
   "type": "drupal-module",
   "homepage": "https://www.drupal.org/project/farm_product",
   "license": "GPL-2.0-or-later",
